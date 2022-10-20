@@ -1,4 +1,4 @@
-# EDA-of-hotel-customers
+# EA09-Analyzing-Customer-Booking-Trends-to-Identify-Marketing-Opportunities
 
 **Created by**
 - Yiwen Fan (yiwenfan@bu.edu)
