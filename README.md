@@ -1,4 +1,4 @@
-# EA09-Analyzing-Customer-Booking-Trends-to-Identify-Marketing-Opportunities
+# Analyzing-Customer-Booking-Trends-to-Identify-Marketing-Opportunities
 
 **Contributors**
 - Yiwen Fan (yiwenfan@bu.edu)
